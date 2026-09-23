@@ -1,0 +1,27 @@
+﻿# STM32CubeIDE Build Outputs
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Object files
+*.o
+*.d
+
+# Makefile fragments
+makefile
+objects.list
+objects.mk
+sources.mk
+
+# Eclipse IDE files
+.settings/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
